@@ -1,9 +1,0 @@
-# ninja log v5
-0	36	1701538516415623978	CMakeFiles/advent_of_code.dir/main.c.o	397e502e161403d
-0	11	1701539953454786084	build.ninja	d71f4c00cad7458
-0	24	1701490938129580347	CMakeFiles/advent_of_code.dir/day_one/part_one.c.o	92e5d725fc3aebd5
-36	61	1701538516442290371	advent_of_code	877a7e6898ff0420
-0	24	1701488404763289024	CMakeFiles/advent_of_code.dir/day_one/part_two.c.o	1b8f314c2e5d15d3
-0	15	1701539953454786084	build.ninja	d71f4c00cad7458
-0	40	1701539953498119254	CMakeFiles/advent_of_code.dir/main.c.o	397e502e161403d
-40	60	1701539953518119179	advent_of_code	877a7e6898ff0420
