@@ -1,0 +1,3 @@
+/home/othember/CLionProjects/advent-of-code/cmake-build-debug/CMakeFiles/advent_of_code.dir
+/home/othember/CLionProjects/advent-of-code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/othember/CLionProjects/advent-of-code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
